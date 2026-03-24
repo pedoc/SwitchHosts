@@ -57,6 +57,7 @@
     "@types/uuid": "11.0.0",
     "@vitejs/plugin-react": "^5.1.4",
     "ahooks": "3.9.6",
+    "builder-util": "^26.8.1",
     "chalk": "^5.6.2",
     "clsx": "2.1.1",
     "codejar": "^4.3.0",
